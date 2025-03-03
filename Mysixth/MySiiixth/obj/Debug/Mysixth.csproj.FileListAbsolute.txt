@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\obj\Debug\Mysixth.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\obj\Debug\Mysixth.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\bin\Debug\Mysixth.exe.config
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\bin\Debug\Mysixth.exe
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\bin\Debug\Mysixth.pdb
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\obj\Debug\Mysixth.exe
+C:\Users\user\Desktop\C# Programming projects\Week1\Mysixth\Mysixth\obj\Debug\Mysixth.pdb
